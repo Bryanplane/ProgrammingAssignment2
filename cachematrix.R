@@ -44,6 +44,8 @@ TEST <- matrix(c(2,1,0,6,1,8,2,0), 3,3)
 solution <- makeCacheMatrix(TEST)
 cacheSolve(solution)
 
+#testingcache
+
 cacheSolve(solution)
 
 
